@@ -57,5 +57,5 @@ python manage.py runserver
 При отправке запроса передавайте токен в заголовке Authorization: Bearer <токен>
 ***
 #### Более подробное описание API можно получить по адресу:
-http://localhost:8000/redoc/
+http://localhost:3000/redoc/
 ***
